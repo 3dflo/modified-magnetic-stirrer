@@ -28,10 +28,10 @@ You can directly jump to the sections:
 
 
 
-## Hw everything startet?
+## How everything startet
 
 
-## Why should you care about bioreactors?)
+## Why should you care about bioreactors?
 
 
 ## Let me present to you: The Problem
