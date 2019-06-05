@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1 align="center">Creating a great biolab for everyone!</h1>
+<h1 align="center">Creating a great bioreactor for everyone!</h1>
 <h3 align="center">placeholder</h3>
 </p>
 
