@@ -1,13 +1,3 @@
-# modified-magnetic-stirrer
-A modified magnetic stirrer for a small biolab reactor. This will be a low friction stirrer.
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
-
 
 <p align="center">
 <h1 align="center">Creating a great biolab for everyone!</h1>
@@ -15,7 +5,9 @@ A modified magnetic stirrer for a small biolab reactor. This will be a low frict
 </p>
 
 ## Hello!
-Welcome to the Magnetic Stirrer project repository! It started in the year 2019 as an universtity project. We work on a low cost, open source bioreactor with a volume up to 4l. The software and hardware will be described later. If you are interested you can read a bit more about the idea behind the project in this README.
+Welcome to the Magnetic Stirrer project repository! It started in the year 2019 as an universtity project. We work on a low cost, open source bioreactor with a volume up to 4l. A modified magnetic stirrer for a small biolab reactor. This will be a low friction stirrer.
+
+The software and hardware will be described later. If you are interested you can read a bit more about the idea behind the project in this README.
 
 You can directly jump to the sections:
 
