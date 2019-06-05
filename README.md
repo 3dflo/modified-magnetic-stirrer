@@ -19,8 +19,8 @@ Welcome to the Magnetic Stirrer project repository! It started in the year 2019 
 
 You can directly jump to the sections:
 
-- [How everything started](#how-everyting-sartet)
-- [A bit of background](#why-should-you-care-about-bioreactors?)
+- [How everything started](#how-everything-startet)
+- [A bit of background](#why-should-you-care-about-bioreactors)
 - [What's to solve?](#let-me-present-to-you-the-problem)
 - [How can you contribute?](#how-can-you-contribute)
 - [And why should you contribute?](#and-why-should-you-contribute)
