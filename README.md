@@ -5,9 +5,9 @@
 </p>
 
 ## Hello!
-Welcome to the Magnetic Stirrer project repository! It started in the year 2019 as an universtity project. We work on a low cost, open source bioreactor with a volume up to 4l. A modified magnetic stirrer for a small biolab reactor. This will be a low friction stirrer.
+Welcome to the Magnetic Stirrer project repository! It started in the year 2019 as an universtity project. We work on a low cost, open source bioreactor with a volume up to 4 l. As one sub-project, a low friction stirrer with multiple replaceable stirrer geometries is developed by modifying a simple commercial magnetic stirrer. It is supposed to work as a stand-alone stirrer as well as to be controlable via web interface.
 
-The software and hardware will be described later. If you are interested you can read a bit more about the idea behind the project in this README.
+Software and hardware will be described later. If you are interested, you can read a bit more about the idea behind the project in this README.
 
 You can directly jump to the sections:
 
@@ -19,9 +19,8 @@ You can directly jump to the sections:
 - [Who is behind all this?](#who-is-behind-all-this)
 
 
-
-## How everything startet
-
+## How everything started
+We are a group of Master students in the field of life sciences. With the opening of the new student's Makerspace at our campus, a Makerspace-related class should be launched the same time. A lot of steps took place in a short time and soon, a team was found to participate in the first class taking place as a pilot project. Laboratory scaled bioreactors are part of several lab courses at university. But as most courses are only meant to be half-day events, it was not possible to observe and compare the growing of microorganisms in live until now. For that purpose, we want to develop a system, which may be controled and observed via an web interface. For providing this sytem with only low costs, the bioreactor is constructed by material available in almost every lab as well as by self-created tools, perfectly adapted for the named application. Additionally, the communication will be realized by a bus-system.
 
 ## Why should you care about bioreactors?
 
@@ -42,9 +41,6 @@ The project can be divided into two parts:
 
 ## And why should you contribute?
 
-If you like to try something new or you want to train your 3D design and coding skills this project is perfect for you! You can play around with computer vision and at the same time solve a scientific problem. Additionally you will learn a bit about microbes and how microbiologist characterize them.
-
-And ultimately we might be able to publish the results in a peer-reviewed scientific journal (which is open access of course!) or at least at a the preprint server [BioRxiv](https://www.biorxiv.org/) and you will be listed as co-author!
 
 ## Who is behind all this?
 We are students at the Technical University of Munich [university website](https://www.tum.de/nc/en/).
