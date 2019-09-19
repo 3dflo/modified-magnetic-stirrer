@@ -1,9 +1,17 @@
 ## What you need for your own stirrer
 - filament for 3D printer (we used PLA for the objects and PVA as support)
 - commercial magnetic stirrer
-- shaft system for model construction
-
-
+- shaft system for model construction (Graupner Wellenanlage (Ø x L) 3 mm x 130 mm M4)
+- Neodym bar magnet 8 x 30 mm, Grade N42
+- 2x screw (M3 x 8), nut and washer M3
+- washer M4
 
 ## For controlling the stirrer via web interface:
-- 
+- Arduino Uno
+- MX485
+- Hall sensor
+- plug circuit board
+- servo motor
+- electrical resistance 10 kOhm
+- 9 wires
+- tin solder
