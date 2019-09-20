@@ -2,13 +2,13 @@ Step-by-step-introduction
 
 How to create YOUR OWN modified magnetic stirrer
 
-1.       3D-models and hardware
+1. 3D-models and hardware
 
-  -          Choose your magnetic stirrer and the bottle you want to use as a fermenter
+-          Choose your magnetic stirrer and the bottle you want to use as a fermenter
 
-  -          Choose your stirrer geometries
+-          Choose your stirrer geometries
 
-  -          Buy a shaft system and a bar magnet
+-          Buy a shaft system and a bar magnet
 
 -          Choose and buy the filament for your 3D-printer
 
@@ -36,18 +36,18 @@ You need to create the agitator shaft, the stirrer geometries, the shaft nut and
 
  
 
-2.       Electronics and software
+2. Electronics and software
 
-  -          Buy your electronic components and make sure you have all your tools
+-          Buy your electronic components and make sure you have all your tools
 
-  -          Connect your electronics (see our electrical layout)
+-          Connect your electronics (see our electrical layout)
 
-  -          Write your code (you can use ours as orientation, but there is of course still potential for improvements)
+-          Write your code (you can use ours as orientation, but there is of course still potential for improvements)
 
-  -          Test your system and program (you need to hold the hall sensor close to the magnet)
+-          Test your system and program (you need to hold the hall sensor close to the magnet)
 
-  -          If Everything works, put the motor into the torque support and fix the torque support at the magnetic stirrer
+-          If Everything works, put the motor into the torque support and fix the torque support at the magnetic stirrer
 
-  -          Stick the hall sensor onto the magnetic stirrer close to the magnet but not in the center
+-          Stick the hall sensor onto the magnetic stirrer close to the magnet but not in the center
 
-  -          Connect everything again and see your stirrer working 😊
+-          Connect everything again and see your stirrer working 😊
