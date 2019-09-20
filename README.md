@@ -27,8 +27,14 @@ Laboratory scaled bioreactors are part of several lab courses at university. But
 The main reason to develop this bioreactor system is to provide to the students a possibility to observe the microorganisms' activity in real time while only beeing present at course half of the day, as described before. But why should you care about the stirrer? The stirrer is not only responsible for creating a homogenous environment concerning nutrients, waste materials, gas, fermentation products but also microorganisms. It is furthermore necessary to guarantee the delivery of oxygen out of air for aerob processes. Nevertheless, some products and cells are very sensitive to friction. As commercial magnets for magnetic stirrers are used to lay on the ground while stirring, a high friction results and might lead to significant losses in product or cell number. Additionally, adapting the stirrer geometry to the explicit system can improve the fermentation's results. Therefore, a flexible stirrer is developped, which may be driven by a commercial magnetic stirrer, but which provides a low friction stirring solution with several replaceable stirrer geometries such as disks or propellers.
 
 ## How to build the modified magnetic stirrer
-[Step-by-step Guide](https://github.com/3DFlo/modified-magnetic-stirrer/blob/master/Step-by-step-introduction.md)
-Let's start to build it. First you need to have a look at the 3D comonents and if they fit your need. You probably have to modify the torque support for the servo motor [Drehmomentstütze.stl](https://github.com/3DFlo/modified-magnetic-stirrer/blob/master/Hardware/Drehmomentst%C3%BCtze.stl). 
+
+Let's start to build it.
+
+Have a look at the [Step-by-step Guide](https://github.com/3DFlo/modified-magnetic-stirrer/blob/master/Step-by-step-introduction.md).
+
+Pictures and more informations:
+
+First you need to have a look at the 3D comonents and if they fit your need. You probably have to modify the torque support for the servo motor [Drehmomentstütze.stl](https://github.com/3DFlo/modified-magnetic-stirrer/blob/master/Hardware/Drehmomentst%C3%BCtze.stl). 
 The rest of the parts can be found under [Hardware](https://github.com/3DFlo/modified-magnetic-stirrer/tree/master/Hardware). These have to be 3D printed. The Hybrid_Stevenrohr.stl together with Scheibe.stl should be combined with a so called Stevenrohr (sterntube in english). This is the main part of the stirrer:
 
 <img src="https://github.com/3DFlo/modified-magnetic-stirrer/blob/master/Hardware/Pictures/Stevenrohr_01.jpg" alt="drawing" width="300"/>
