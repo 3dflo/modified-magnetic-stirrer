@@ -36,7 +36,7 @@ You need to create the agitator shaft, the stirrer geometries, the shaft nut and
 
  
 
-2. Electronics and software
+### 2. Electronics and software
 
 - Buy your electronic components and make sure you have all your tools
 
