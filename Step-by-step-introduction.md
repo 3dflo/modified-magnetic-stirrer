@@ -1,8 +1,8 @@
-Step-by-step-introduction
+## Step-by-step-introduction
 
 How to create YOUR OWN modified magnetic stirrer
 
-1. 3D-models and hardware
+### 1. 3D-models and hardware
 
 - Choose your magnetic stirrer and the bottle you want to use as a fermenter
 
